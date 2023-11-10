@@ -13,7 +13,7 @@ a reimplementation of the algorithm used by [`findimagedupes`](https://gist.gith
 
 ## Installation
 
-`go install github.com/swenson/findimagedupes`
+`go install github.com/swenson/findimagedupes@latest`
 
 ## Usage
 
